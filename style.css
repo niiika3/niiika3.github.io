@@ -1,0 +1,39 @@
+body{
+    color: rgb(179, 179, 179);
+    background-color: rgb(92, 80, 133);
+    background-size: cover;
+    text-align: center;
+}
+    .logo{
+        width: 250px;
+        box-shadow: 5px 10px 15px rgb(rgb(219, 189, 189), green, blue);
+    }
+
+    .logo:hover{
+        width: 250px;
+    }
+    .cloude{
+        font-family: verdana, geneva, tahoma, sans-serif;
+        color: blueviolet;
+        text-shadow: 5px 10px 15px rgb(rgb(118, 118, 182));
+    }
+    .cloude:hover{ 
+     color: blanchedalmond;
+    }
+
+.desk_os{
+    border: 7px solid color rebeccapurple;
+    border-radius: 40px;
+    background-color: rgba(rgb(109, 35, 35), rgb(99, 37, 88), rgb(34, 34, 99));
+    box-shadow: 10px 20px 25px;
+}
+
+.general {
+    width: 100%;
+    background-image:linear-gradient(blue, red) ;
+}
+.btn_os{
+    width: 100px;
+    background-color: rgb(71, 124, 124);
+    text-decoration: rgb(187, 147, 182);
+}
